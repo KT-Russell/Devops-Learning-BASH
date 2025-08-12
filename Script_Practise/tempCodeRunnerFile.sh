@@ -1,1 +1,0 @@
-        echo "Sorry your grade is not high enough!"
